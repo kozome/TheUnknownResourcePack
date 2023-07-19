@@ -1,0 +1,92 @@
+{
+    "credit": "Made with Blockbench",
+    "textures": {
+        "0": "item/firework_star/99999/normal_spawner_cube",
+        "particle": "item/firework_star/99999/normal_spawner_cube"
+    },
+    "elements": [
+        {
+            "from": [
+                6.5,
+                6.5,
+                6.5
+            ],
+            "to": [
+                9.5,
+                9.5,
+                9.5
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    8,
+                    8,
+                    8
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        0,
+                        5,
+                        5
+                    ],
+                    "texture": "#0",
+                    "tintindex": 1
+                },
+                "east": {
+                    "uv": [
+                        5,
+                        0,
+                        0,
+                        5
+                    ],
+                    "texture": "#0",
+                    "tintindex": 1
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        0,
+                        5,
+                        5
+                    ],
+                    "texture": "#0",
+                    "tintindex": 1
+                },
+                "west": {
+                    "uv": [
+                        5,
+                        0,
+                        0,
+                        5
+                    ],
+                    "texture": "#0",
+                    "tintindex": 1
+                },
+                "up": {
+                    "uv": [
+                        5,
+                        0,
+                        0,
+                        5
+                    ],
+                    "texture": "#0",
+                    "tintindex": 1
+                },
+                "down": {
+                    "uv": [
+                        5,
+                        0,
+                        0,
+                        5
+                    ],
+                    "texture": "#0",
+                    "tintindex": 1
+                }
+            }
+        }
+    ]
+}

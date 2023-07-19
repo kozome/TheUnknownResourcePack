@@ -4,5 +4,11 @@
         "layer0": "item/firework_star"
     },
     "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 99999
+            },
+            "model": "item/firework_star/99999"
+        }
     ]
 }
