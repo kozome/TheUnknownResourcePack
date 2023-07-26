@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/number/yellow_font.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "0123456789-"
+            ]
+        }
+    ]
+}
