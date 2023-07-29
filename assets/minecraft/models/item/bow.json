@@ -1,0 +1,20 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "item/bow"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "item/bow/11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "item/bow"
+        }
+    ]
+}
